@@ -23,4 +23,4 @@ console.log(undefined < 0);
 
 //==
 
-console.log("2"=== 2);// its check data type and converstion 
+console.log("2"=== 2);// its check data type and converstion  its also check value or dataType strictly 
