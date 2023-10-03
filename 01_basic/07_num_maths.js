@@ -41,6 +41,6 @@ const min = 10
 const max = 30
 
 console.log(Math.floor(Math.random() * (max - min +1))+min);
-// notes : Math.random gives you value into 0 between 1 to void problem in 0 to 1 we add 1  
+//   
 
 
